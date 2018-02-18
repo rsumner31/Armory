@@ -7,6 +7,7 @@ The 802.11 Hacking Repo.
 - [CWSP](https://kat.cr/cwsp-official-study-guide-exam-pw0-204-sybex-pdf-stormrg-t8734250.html)
 - [WiFi Toys](http://sirpabs.ilahas.com/Computing/Wi-Fi%20Toys%20-%2015%20Cool%20Wireless%20Projects%20For%20Home,%20Office,%20And%20Entertainment%20%282004%29.pdf)
 - [Professional CUDA C Programming](http://it-ebooks.info/book/4934/)
+- [WiFi Toys](http://sirpabs.ilahas.com/Computing/Wi-Fi%20Toys%20-%2015%20Cool%20Wireless%20Projects%20For%20Home,%20Office,%20And%20Entertainment%20%282004%29.pdf)
 
 ##Papers
 - [WPA Too!](https://www.defcon.org/images/defcon-18/dc-18-presentations/Ahmad/DEFCON-18-Ahmad-WPA-Too-WP.pdf)
